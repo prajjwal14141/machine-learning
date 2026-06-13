@@ -1,0 +1,13 @@
+### Use cases of Pandas
+
+    Data Cleaning, Analysis, Transformation
+
+    Aggregation
+
+    Basic Data Visualization
+
+    File Handling
+
+    Data Filtering & Selection
+
+    Time Series analysis
